@@ -70,4 +70,4 @@
   </ol>
 
   <h2>Note on Code Attribution</h2>
-  <p>The code within this project was developed independently by [Your Name] based on the assignment requirements and personal learning from the Interactive Web Visualizations course. No code from external sources, forums, or support staff was directly used in this project.</p>
+  <p>The code within this project was developed independently by Binh Do.</p>
