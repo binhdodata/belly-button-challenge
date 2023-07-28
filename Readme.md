@@ -1,7 +1,7 @@
  <h1>Belly Button Biodiversity Dashboard</h1>
 
   <h2>Code Source and Attribution</h2>
-  <p>The code for the Belly Button Biodiversity Dashboard was developed as part of an assignment for the Interactive Web Visualizations course. The main JavaScript code that powers the dashboard was authored by [Your Name]. The code includes elements of data visualization using Plotly.js and D3.js libraries.</p>
+  <p>The code for the Belly Button Biodiversity Dashboard was developed as part of an assignment for the Interactive Web Visualizations course. The code includes elements of data visualization using Plotly.js and D3.js libraries.</p>
 
   <h2>Code Location</h2>
   <p>The main JavaScript code that creates the dashboard, including the bar chart, bubble chart, gauge chart, and handling the dropdown menu change event, can be found in the following file:</p>
